@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadiiraza&label=Profile%20views&color=0e75b6&style=flat" alt="hadiiraza" /> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 **Data Science and Machine Learning Geek**
 
 - 💬 Ask me about **MySQL, Python, Power BI**
 
